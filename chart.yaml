@@ -1,5 +1,12 @@
+# apiVersion: v2
+# name: nginx
+# version: 1.0.0 
+# description: This is nginx
+# appVersion: 1.2.0
+
+
 apiVersion: v2
 name: nginx
-version: 1.0.0 
-description: This is nginx
-appVersion: 1.2.0
+version: 1.0.0 # chart version
+description: This is nginx deployment
+appVersion: 1.2.0 # nginx app version
